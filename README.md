@@ -25,6 +25,11 @@ cd yolov9-face-blur
 pip install -r requirements.txt
 ```
 
+## 🤖 预训练模型
+
+- 下载在WIDER数据集上训练240轮的YOLOv9-C预训练模型：[yolov9-c.pt](https://drive.google.com/file/d/15K4e08lcZiiQrXmdsnm2BhcoNS3MOMmx/view?usp=sharing)
+- 将下载的模型文件重命名为`best.pt`并放置在项目根目录
+
 ## 使用方法
 
 基本用法:
